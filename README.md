@@ -32,4 +32,6 @@ These are the steps...
         Mindy = df.loc[(df['Hometown'] == 'Mindanao')&(df['Gender'] == 'Female')&(df['Average'] >= 55), ['Name', 'Track', 'Electronics', 'Average']]
 
 ### 2) Data Visualization
-   
+  Create a visualization that shows how the different features contributes to average grade.
+
+### Background
