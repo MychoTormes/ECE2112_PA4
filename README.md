@@ -62,3 +62,16 @@ These are the steps...
 
 ### Files
 This is where I set and work on my codes
+
+       PA4.ipynb
+
+ ### Reference
+1)
+       Data Wrangling in Python.pdf
+
+
+2)
+       Matplotlib Cheat Sheet.pdf
+
+
+##### The codes and answers in the PA are made by Mycho Tormes
