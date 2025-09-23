@@ -1,7 +1,5 @@
 # ECE2112_PA4: Data Wrangling and Data Visualization
 
-GitHub link to PA4 - [PA4 - Tormes, Mycho](https://github.com/MychoTormes/ECE2112_PA4/tree/main)
-
 ## 💻 ECE BOARD EXAM PROBLEM
 
 ### 1) Data Frames 🗒️
