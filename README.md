@@ -63,7 +63,7 @@ These are the steps...
 ### 📌 Files
 This is where I set and work on my codes
 
-       PA4_Tormes.ipynb
+[PA4_Tormes.ipynb](https://github.com/MychoTormes/ECE2112_PA4/blob/main/PA4_Tormes.ipynb)
 
  ### 📍 Reference
 1)
@@ -74,4 +74,4 @@ This is where I set and work on my codes
        Matplotlib Cheat Sheet.pdf
 
 
-##### The codes and answers in the PA are made by Mycho Tormes
+### All of the codes and answers for the Programming Assignment are made by Mycho Tormes
