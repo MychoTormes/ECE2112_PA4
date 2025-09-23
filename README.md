@@ -66,12 +66,13 @@ This is where I set and work on my codes
 [PA4_Tormes.ipynb](https://github.com/MychoTormes/ECE2112_PA4/blob/main/PA4_Tormes.ipynb)
 
  ### 📍 Reference
-1)
-[Data Wrangling in Python.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Data%20Wrangling%20in%20Python.pdf)
+1) [Data Wrangling in Python.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Data%20Wrangling%20in%20Python.pdf)
 
 
-2)
-       Matplotlib Cheat Sheet.pdf
+2) [Matplotlib Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Matplotlib%20Cheat%20Sheet.pdf)
+
+   
+3) [Pandas Cheat Sheet.pdf]
 
 
 ### All of the codes and answers for the Programming Assignment are made by Mycho Tormes
