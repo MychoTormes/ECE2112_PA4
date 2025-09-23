@@ -52,11 +52,11 @@ These are the steps...
          df.plot.bat(x = 'Name', y = ['Math', 'GEAS', 'Electronics', 'Communication'])
 
 ### ❓ Question to ponder
- 1) Does chosen track in college, gender, or hometown contributes to a higher average score?
+ 1) Does chosen track in college, gender, or hometown contribute to a higher average score?
   
- - No, it does not beacuase average score is a mean of overall course subject which are Math, Electronics, GEAS, and Communication.
+ - No, it does not because average score is a mean of overall course subjects which are Math, Electronics, GEAS, and Communication.
 
-   The contributions to the average score can be affect by numerical value which doesn't apply to college, gender or hometown for
+   The contributions to the average score can be affected by numerical value which doesn't apply to college, gender or hometown for
 
    they are only applied for the identifications of the student.
 
