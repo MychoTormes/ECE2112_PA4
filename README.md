@@ -67,7 +67,7 @@ This is where I set and work on my codes
 
  ### 📍 Reference
 1)
-       Data Wrangling in Python.pdf
+[Data Wrangling in Python.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Data%20Wrangling%20in%20Python.pdf)
 
 
 2)
