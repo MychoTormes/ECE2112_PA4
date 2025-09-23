@@ -1,6 +1,6 @@
 # ECE2112_PA4: Data Wrangling and Data Visualization
 
-GitHub link to PA4 - [PA4 - Tormes, Mycho](
+GitHub link to PA4 - [PA4 - Tormes, Mycho](https://github.com/MychoTormes/ECE2112_PA4/tree/main)
 
 ## 💻 ECE BOARD EXAM PROBLEM
 
@@ -79,4 +79,4 @@ This is where I set and work on my codes
 
 ### All of the codes and answers for the Programming Assignment are made by Mycho Tormes
 
-GitHub link to PA4 - [PA4 - Tormes, Mycho](
+GitHub link to PA4 - [PA4 - Tormes, Mycho](https://github.com/MychoTormes/ECE2112_PA4/tree/main)
