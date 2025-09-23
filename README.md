@@ -1,5 +1,7 @@
 # ECE2112_PA4: Data Wrangling and Data Visualization
 
+GitHub link to PA4 - [PA4 - Tormes, Mycho](
+
 ## 💻 ECE BOARD EXAM PROBLEM
 
 ### 1) Data Frames 🗒️
@@ -72,7 +74,9 @@ This is where I set and work on my codes
 2) [Matplotlib Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Matplotlib%20Cheat%20Sheet.pdf)
 
    
-3) [Pandas Cheat Sheet.pdf]
+3) [Pandas Cheat Sheet.pdf](https://github.com/MychoTormes/ECE2112_PA4/blob/main/Pandas%20Cheat%20Sheet.pdf)
 
 
 ### All of the codes and answers for the Programming Assignment are made by Mycho Tormes
+
+GitHub link to PA4 - [PA4 - Tormes, Mycho](
